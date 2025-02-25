@@ -1,1 +1,1 @@
-# quarto-template
+# My skrub blog
